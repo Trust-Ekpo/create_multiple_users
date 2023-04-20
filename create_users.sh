@@ -1,6 +1,7 @@
 #!/bin/bash
 
 
+#A simple bash script that creates multiple users.
 echo "What is the path to the list of users you want to create?"
 read path
 

@@ -1,5 +1,10 @@
 #!/bin/bash
 
+
+
+#A simple bash script that check to see if those users were created. 
+
+
 #get the path to the list of users
 echo "What is the path to the list of users you want to check?"
 read path
